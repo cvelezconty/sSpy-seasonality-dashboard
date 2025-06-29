@@ -1,0 +1,16 @@
+
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+select {
+    margin: 5px;
+}
+#chartPlaceholder {
+    margin-top: 20px;
+    padding: 10px;
+    background: #222;
+    border: 1px solid #555;
+}
