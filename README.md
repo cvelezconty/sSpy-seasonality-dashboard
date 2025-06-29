@@ -1,1 +1,1 @@
-# sSpy-seasonality-dashboard
+# Spy-seasonality-dashboard
